@@ -1,1 +1,1 @@
-# cryptevszombie-ido-config 
+# dilyngo
