@@ -1,7 +1,7 @@
 {
   "isCheckWhiteList": 0,
-  "start":             "Thu Dec 01 2021 02:00:00 GMT",
-  "end_round_1":       "Thu Dec 10 2021 12:00:00 GMT",
-  "end_round_2":       "Thu Dec 10 2020 15:44:01 GMT",
-  "end_waiting_claim": "Thu Dec 10 2021 14:00:00 GMT"
+  "start":             "Dec 13 2021 16:20:00 GMT+0700",
+  "end_round_1":       "Dec 13 2021 17:00:00 GMT+0700",
+  "end_round_2":       "Dec 13 2021 17:20:00 GMT+0700",
+  "end_waiting_claim": "Dec 13 2021 17:30:00 GMT+0700"
 }
